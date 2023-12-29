@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/maskboyAvi.github.io/portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/maskboyAvi.github.io/portfolio/static/js/main.20895fa8.js",
-    "static/media/mine.jpg": "/maskboyAvi.github.io/portfolio/static/media/mine.5aa48ea611ae6b53edf2.jpg",
-    "index.html": "/maskboyAvi.github.io/portfolio/index.html",
-    "main.bf538fe7.css.map": "/maskboyAvi.github.io/portfolio/static/css/main.bf538fe7.css.map",
-    "main.20895fa8.js.map": "/maskboyAvi.github.io/portfolio/static/js/main.20895fa8.js.map"
+    "main.css": "/portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio/static/js/main.31dd260c.js",
+    "static/media/mine.jpg": "/portfolio/static/media/mine.5aa48ea611ae6b53edf2.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
+    "main.31dd260c.js.map": "/portfolio/static/js/main.31dd260c.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.20895fa8.js"
+    "static/js/main.31dd260c.js"
   ]
 }
