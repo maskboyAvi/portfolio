@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Aviral Katiyar's Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![portfolio](https://github.com/maskboyAvi/portfolio/assets/123640350/6922fbe8-6043-4c71-b132-e000b6125158)
+## About
 
-## Available Scripts
 
-In the project directory, you can run:
+Hi, I am Aviral Katiyar, a Full Stack and AI/ML developer. I am enthusiastic and adaptable, consistently seeking fresh challenges and committed to producing top-notch outcomes.
 
-### `npm start`
+Check my [Resume](https://drive.google.com/file/d/1Axcg5jJ5V7ZWEjP4m4ZnEbl0fjQWMAvw/view)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Skills
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Full Stack
+- React JS, HTML, CSS, JavaScript
+- AI/ML: Numpy, Pandas, Matplotlib, MySQL, OpenCV, Tensorflow, Flask, Scikit Learn
+- Languages: Python, C++, Django, Java, C
+- Tools: Git, GitHub, VS Code, Google Colab, Postman, Adobe XD, Figma
 
-### `npm test`
+## Experience
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Research Assistant - IIIT Lucknow
+- May 2023 - Present
+- Machine Learning, Preprocessing, Colab, Custom ML Models, Model Optimization
 
-### `npm run build`
+### ML Representative - Axios, IIIT Lucknow
+- Aug 2023 - Present
+- Deep Learning, NLP, Teaching, Leadership, Communication, Teamwork
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Machine Learning Wing Member - GDSC, IIIT Lucknow
+- Nov 2023 - Present
+- ML tutorials, Technical presentations, AI/ML competitions
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Projects
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Guardian Vision - Apr 2023
+- Real-time violence detection using ML
 
-### `npm run eject`
+### Attendance Assistant - July 2023
+- Online attendance system using codes and location tracking
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### HandLight Dash - Aug 2023
+- Interactive AI game inspired by "Red Light, Green Light"
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Metaland - Sep 2023
+- 3D multiplayer metaverse platform with Socket.io, WebRTC, blockchain, and AI chatbots
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Education
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Indian Institute of Information Technology, Lucknow**  
+- Bachelor of Technology - BTech, Computer Science and Engineering
+- Dec 2022 - June 2026
+- Grade: 9.45 CGPA
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contact
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feel free to reach out to me for any questions or opportunities!
 
-### Code Splitting
+[Email Me](<mailto:aviralofficial1729@gmail.com>)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+© 2023 Aviral Katiyar. All rights reserved.
