@@ -9,7 +9,7 @@ export const Bio = {
       "I'm an enthusiastic and adaptable person, consistently seeking fresh challenges. Fueled by a love for acquiring knowledge, I am committed to producing top-notch outcomes. Armed with a positive outlook and a mindset for growth, I am poised to create a significant impact and attain remarkable accomplishments.",
     github: "https://github.com/maskboyAvi",
     resume:
-      "https://drive.google.com/file/d/1Axcg5jJ5V7ZWEjP4m4ZnEbl0fjQWMAvw/view?usp=sharing",
+      "https://drive.google.com/file/d/15vQLjPxXJdNKu43Bbu0IRjKp0wo6lItR/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/aviral-katiyar-7b2209253/",
     twitter: "https://twitter.com/maskboy1729?t=dQCGw5qAanbyklGn4fJ1GA&s=08",
     insta: "https://www.instagram.com/maskboy_avi/",
